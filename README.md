@@ -15,3 +15,12 @@ Docente: Marcos Pinardi |
   1. Un Browser   
   2. Un editor de Código  
 
+## Sintaxis
+
+>La sintáxis de HTML corresponde a un sistema de contenedores	
+
+
+    <elemento>    
+    	objeto
+    </elemento>   
+
