@@ -9,3 +9,8 @@ Docente: Marcos Pinardi |
 >lenguaje de programación para crear páginas web. 
 >Es un lenguaje de marcado   
 
+## Requisitos de software
+
+  1. Un Browser   
+  2. Un editor de Código  
+
