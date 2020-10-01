@@ -7,7 +7,8 @@ Docente: Marcos Pinardi |
 ## Definición: 
 
 >lenguaje de programación para crear páginas web. 
->Es un lenguaje de marcado   
+>Es un lenguaje de marcado poque cada instrucción es una marca.
+> a las instrucciones les llamamos elementos o etiquetas 
 
 ## Requisitos de software
 
