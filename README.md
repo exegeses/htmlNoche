@@ -1,4 +1,4 @@
-#Curso: FUndamentos de un sitio Web
+#Curso: Fundamentos de un sitio Web
 
 Horario: Jueves turno noche |      
 Código: 49237 |   
