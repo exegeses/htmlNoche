@@ -6,3 +6,6 @@
 	objeto
 </elemento>
 
+##vínculos
+
+<a href="URL">texto/imagen</a>
