@@ -9,3 +9,15 @@
 ##vínculos
 
 <a href="URL">texto/imagen</a>
+
+##imágenes
+
+<img src="RUTA">
+
+formatos:  
+
+  []. png
+  []. jpg
+  []. gif
+  []. svg
+  
