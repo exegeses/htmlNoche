@@ -1,0 +1,33 @@
+*{ 
+	/* selector universal */
+	margin: 0px;
+	padding: 0px;
+ }
+body{
+	background-color: #e8e8e8;
+	font-family: 'Raleway', sans-serif;
+}
+header{
+	background-color: #49808C;
+	height: 130px;
+}
+nav{
+	background-color: #8EB1BF;
+	height: 60px;
+	text-align: center;
+}
+main{
+	background-color: #F2D479;
+	min-height: 550px; 
+	width: 1020px;
+	margin: auto;
+}
+	h1{
+		
+	}
+
+
+footer{
+	background-color: #49808C;
+	height: 130px;
+}
