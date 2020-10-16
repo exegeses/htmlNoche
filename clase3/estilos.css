@@ -2,6 +2,7 @@
 	/* selector universal */
 	margin: 0px;
 	padding: 0px;
+	box-sizing: border-box;
  }
 body{
 	background-color: #e8e8e8;
@@ -16,11 +17,26 @@ nav{
 	height: 60px;
 	text-align: center;
 }
+	nav a{
+		/* background-color: #6E919F; */
+		padding: 18px 30px;
+		display: inline-block;
+		color: #e8e8e8;
+		text-decoration: none;
+		border-bottom: 3px solid #8EB1BF;
+	}
+	nav a:hover{
+		/*background-color: #49808C;*/
+		color: #fff;
+		border-bottom: 3px solid #fff;
+	}
+
 main{
-	background-color: #F2D479;
+	background-color: #f8f8f8;
 	min-height: 550px; 
 	width: 1020px;
 	margin: auto;
+	padding: 16px;
 }
 	h1{
 		
@@ -30,4 +46,7 @@ main{
 footer{
 	background-color: #49808C;
 	height: 130px;
+	text-align: center;
+	color: #fff;
+	padding-top: 50px;
 }
